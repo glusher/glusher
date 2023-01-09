@@ -4,6 +4,7 @@
 - 🧩 I'm also working on
   - 💡 home automation
   - 💥 building a science project with my son (11) using Arduino
+  - :page_with_curl: documenting my home lab
 
 <!---
 glusher/glusher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
